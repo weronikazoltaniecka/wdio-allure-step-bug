@@ -1,6 +1,6 @@
 {
-  "name": "vitoguide",
-  "version": "2.34.4",
+  "name": "jasmine-allure-reporter-issue",
+  "version": "1.0.0",
   "scripts": {
     "e2e": "npx wdio run wdio.conf.ts"
   },
