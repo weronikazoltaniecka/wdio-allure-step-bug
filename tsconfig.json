@@ -1,0 +1,20 @@
+{
+    "allowJs": true,
+    "skipLibCheck": true,
+    "compilerOptions": {
+        "types": [
+            "node",
+            "@wdio/globals/types",
+            "jasmine",
+            "@wdio/jasmine-framework",
+            "expect-webdriverio/jasmine"
+        ],
+        "module": "es2020",
+        "resolveJsonModule": true,
+        "allowSyntheticDefaultImports": true,
+        "noUnusedLocals": false,
+        "outDir": "./dist/out-tsc",
+        "noUnusedParameters": true,
+        "moduleResolution": "node",
+    },
+}
