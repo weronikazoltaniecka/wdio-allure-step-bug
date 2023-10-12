@@ -1,8 +1,0 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
-exports.capitalizeFirstLetter = void 0;
-function capitalizeFirstLetter(word) {
-    return word.substr(0, 1).toUpperCase() + word.substr(1).toLowerCase();
-}
-exports.capitalizeFirstLetter = capitalizeFirstLetter;
-//# sourceMappingURL=capitalizeFirstLetter.js.map
