@@ -1,4 +1,5 @@
 import { step } from '@wdio/allure-reporter';
+import { expect } from "expect-webdriverio";
 
 describe('Suite', () => {
     it('should fail step', async () => {
